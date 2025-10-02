@@ -21,20 +21,28 @@ Este repositório faz parte do **treinamento da Udemy: "Testes em aplicações m
    git clone https://github.com/usuario/repositorio_udemy.git
 
 2. Acesse a pasta do projeto:
-   ``` bash
+   ```bash
     cd projeto_treinamento
 
-4. Instale as dependências:
-  ```bash
-      npm install
-5. Execute os testes no modo interativo:
-  ```bash  
-      npx cypress open
-      npx cypress run 
+3. Instale as dependências:
+   ```bash
+    npm install
 
+4. Execute os testes no modo interativo:
+   ```bash
+    npx cypress open
+
+
+
+---
 ## 📂 Estrutura do projeto
 
 - cypress/ → Contém os testes automatizados
 - node_modules/ → Dependências do Node.js (ignorada no GitHub)
 - cypress.config.js → Configuração do Cypress
 - package.json → Dependências e scripts do projeto
+
+--- 
+Dúvida entre em contato
+  https://www.linkedin.com/in/vivian-nygard-1029ab27/
+
